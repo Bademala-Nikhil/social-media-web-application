@@ -14,7 +14,6 @@ import {
 } from "lucide-react";
 
 import { motion } from "framer-motion";
-import { useState, useEffect } from "react";
 
 export default function Settings() {
   const navigate = useNavigate();
